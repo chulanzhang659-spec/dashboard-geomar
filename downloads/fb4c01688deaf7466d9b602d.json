@@ -1,0 +1,250 @@
+{
+  "competitor_id": "weilan",
+  "platform": "抖音",
+  "shop_name": "未兰官方旗舰店",
+  "shop_url": "https://www.douyin.com/user/MS4wLjABAAAA8nm1Zd8G1X1cuVApQlReAOdgbcdQi1CnMdNP_xp7vOw",
+  "live_url": "https://live.douyin.com/594529672682",
+  "captured_at": "2026-10-15T12:29:42+08:00",
+  "capture_status": "partial_capture",
+  "scope": "实名认证后Chrome正常读取直播列表11款价格与活动文案；列表展示顺序非销量TOP5；商品SKU和赠品条件未齐",
+  "extraction_method": "Browser Act读取当前页面可见商品卡DOM，无隐藏接口请求",
+  "products": [
+    {
+      "rank": 1,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【官旗正品】未兰磨砂膏果酸海盐身体护理去角质嫩肤烟酰胺瞬双11",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 59.0,
+      "price_label": "直播列表展示起售价；未核验选中SKU及结算条件",
+      "gift_copy": "直击底价，赠品加码",
+      "gift_status": "仅列表宣传，规格及条件待核验",
+      "coupon_conditions": "券满168减10",
+      "promotion_copy": "直击底价，赠品加码；券满168减10",
+      "raw_product_card": "1\n【官旗正品】未兰磨砂膏果酸海盐身体护理去角质嫩肤烟酰胺瞬双11\n直击底价，赠品加码\n券满168减10\n大促价\n¥59\n起\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:29:42+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/weilan-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 2,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【官旗囤货装】未兰磨砂膏果酸海盐身体护理去角质嫩肤烟酰胺女280g",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 158.0,
+      "price_label": "直播列表展示起售价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "领平台消费券，满300减40~；券满168减10",
+      "promotion_copy": "领平台消费券，满300减40~；券满168减10",
+      "raw_product_card": "2\n【官旗囤货装】未兰磨砂膏果酸海盐身体护理去角质嫩肤烟酰胺女280g\n领平台消费券，满300减40~\n券满168减10\n大促价\n¥158\n起\n¥168\n领券抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:29:42+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/weilan-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 3,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【主播优选】未兰磨砂膏去角质果酸海盐留香身体清洁搓泥宝颜九推荐",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 89.0,
+      "price_label": "直播列表展示起售价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "领平台消费券，满300减40~；券满168减10",
+      "promotion_copy": "领平台消费券，满300减40~；券满168减10",
+      "raw_product_card": "3\n【主播优选】未兰磨砂膏去角质果酸海盐留香身体清洁搓泥宝颜九推荐\n领平台消费券，满300减40~\n券满168减10\n¥89\n起\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:29:42+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/weilan-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 4,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【官旗正品】未兰空山新雨手部护理spa套装",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 89.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "领平台消费券，满300减40~",
+      "promotion_copy": "领平台消费券，满300减40~",
+      "raw_product_card": "4\n【官旗正品】未兰空山新雨手部护理spa套装\n领平台消费券，满300减40~\n运费险次日发7天无理由退货\n大促价\n¥89\n¥119\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:29:42+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/weilan-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 5,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【官旗正品】未兰水漾沐浴油清洁保湿留香干燥起皮以油养肤",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 99.0,
+      "price_label": "直播列表展示起售价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "领平台消费券，满300减40~",
+      "promotion_copy": "领平台消费券，满300减40~",
+      "raw_product_card": "5\n【官旗正品】未兰水漾沐浴油清洁保湿留香干燥起皮以油养肤\n领平台消费券，满300减40~\n运费险次日发7天无理由退货\n大促价\n¥99\n起\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:29:42+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/weilan-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 6,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【官旗正品】未兰身体素颜霜美容修饰提亮不假白防水防汗持久夏季",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 69.0,
+      "price_label": "直播列表展示起售价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "领平台消费券，满300减40~",
+      "promotion_copy": "领平台消费券，满300减40~",
+      "raw_product_card": "6\n【官旗正品】未兰身体素颜霜美容修饰提亮不假白防水防汗持久夏季\n领平台消费券，满300减40~\n运费险次日发7天无理由退货\n大促价\n¥69\n起\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:29:42+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/weilan-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 7,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【官旗正品】未兰洗面奶氨基酸洁面乳深层清洁不紧绷温和200g",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 49.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "领平台消费券，满300减40~",
+      "promotion_copy": "领平台消费券，满300减40~",
+      "raw_product_card": "7\n【官旗正品】未兰洗面奶氨基酸洁面乳深层清洁不紧绷温和200g\n领平台消费券，满300减40~\n运费险次日发7天无理由退货\n大促价\n¥49\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:29:42+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/weilan-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 8,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【官旗正品】未兰卸妆油清洁保湿净透不闷痘温和不刺激水感",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 89.0,
+      "price_label": "直播列表展示起售价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "领平台消费券，满300减40~",
+      "promotion_copy": "领平台消费券，满300减40~",
+      "raw_product_card": "8\n【官旗正品】未兰卸妆油清洁保湿净透不闷痘温和不刺激水感\n领平台消费券，满300减40~\n运费险次日发7天无理由退货\n大促价\n¥89\n起\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:29:42+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/weilan-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 9,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【官旗正品】未兰身体乳保湿滋润面霜芳香久留秋冬干燥起皮补水",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 69.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "领平台消费券，满300减40~",
+      "promotion_copy": "领平台消费券，满300减40~",
+      "raw_product_card": "9\n【官旗正品】未兰身体乳保湿滋润面霜芳香久留秋冬干燥起皮补水\n领平台消费券，满300减40~\n运费险次日发7天无理由退货\n大促价\n¥69\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:29:42+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/weilan-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 10,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【官旗正品】未兰东方香氛精油沐浴露300g身体沐浴清洁",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 49.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "领平台消费券，满300减40~",
+      "promotion_copy": "领平台消费券，满300减40~",
+      "raw_product_card": "10\n【官旗正品】未兰东方香氛精油沐浴露300g身体沐浴清洁\n领平台消费券，满300减40~\n运费险次日发7天无理由退货\n大促价\n¥49\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:29:42+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/weilan-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 11,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【官旗正品】未兰护手霜抗静电香氛滋润保湿好闻烟酰胺便携45g",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 29.0,
+      "price_label": "直播列表展示起售价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "领平台消费券，满300减40~",
+      "promotion_copy": "领平台消费券，满300减40~",
+      "raw_product_card": "11\n【官旗正品】未兰护手霜抗静电香氛滋润保湿好闻烟酰胺便携45g\n领平台消费券，满300减40~\n运费险次日发7天无理由退货\n大促价\n¥29\n起\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:29:42+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/weilan-products-dom.txt"
+      ]
+    }
+  ],
+  "missing": [
+    "选中SKU及对应价格",
+    "稳定商品ID与商品链接",
+    "赠品适用规格、数量及活动限制",
+    "第二个同规格同条件快照"
+  ]
+}

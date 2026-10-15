@@ -1,0 +1,119 @@
+{
+  "competitor_id": "weilan",
+  "platform": "天猫",
+  "shop_name": "未兰旗舰店",
+  "captured_at": "2026-10-14T10:44:17.780Z",
+  "capture_status": "partial_capture",
+  "scope": "销量TOP5详情、所选规格价格与促销海报已取；海报组合和当前规格分别标记",
+  "products": [
+    {
+      "rank": 1,
+      "title": "未兰身体磨砂膏海盐去角质果酸祛痘浴盐清洁保湿嫩肤控油男女",
+      "product_id": "641892987370",
+      "product_url": "https://detail.tmall.com/item.htm?id=641892987370",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=641892987370&mi_id=0000JQ_OwoKAx9FjPQNNiiIC-6URdQW2KW_DErLqo3RlqiM&ns=1&skuId=5948080789512&xxc=taobaoSearch",
+      "sku": "150g / 【祛痘焕亮】果酸款150g",
+      "selected_sku_display_price": 56.1,
+      "price_label": "当前账号所选规格页面价；单品、两件组合海报价分开",
+      "gift_copy": "海报：单笔实付满89元赠卸妆油15ml；会员拍2罐得沐浴刷、磨砂膏10g×2、护手霜1.2g×2。海报54元/罐为拍2优惠，非当前单罐价。",
+      "coupon_conditions": "含淘金币抵扣；除第4款外页面另含2元账号红包。20日满200减25为未来活动。未下单核验。",
+      "link_status": "active",
+      "evidence": [
+        "weilan-tmall-r1-dom.json",
+        "weilan-tmall-r1-selected.png",
+        "weilan-r1-poster-0.webp"
+      ],
+      "public_evidence": [
+        "weilan-r1-poster-0.webp"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "未兰身体素颜霜脖子胳膊全身修饰防水防汗敏感肌保湿学生党男女",
+      "product_id": "798118018901",
+      "product_url": "https://detail.tmall.com/item.htm?id=798118018901",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=798118018901&mi_id=0000Apk9ShRii7sa7P2rMx-bsVuFDMV7h3Rut3ZOyFtLM1A&ns=1&skuId=5946852184592&xxc=taobaoSearch",
+      "sku": "【一抹冷白皮】流光瓷60g <免费试2件>",
+      "selected_sku_display_price": 36.1,
+      "price_label": "当前账号所选规格页面价；单品、两件组合海报价分开",
+      "gift_copy": "海报100g版：满89赠卸妆油15ml；会员拍2得磨砂膏10g×2、素颜霜5g×2（香味随机）。当前选60g，是否适用100g海报赠礼未确认。",
+      "coupon_conditions": "含淘金币抵扣；除第4款外页面另含2元账号红包。20日满200减25为未来活动。未下单核验。",
+      "link_status": "active",
+      "evidence": [
+        "weilan-tmall-r2-dom.json",
+        "weilan-tmall-r2-selected.png",
+        "weilan-r2-poster-0.webp"
+      ],
+      "public_evidence": [
+        "weilan-r2-poster-0.webp"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "【秒杀】未兰身体素颜霜60g便携全身美容修饰防水防汗保湿男女",
+      "product_id": "844107839572",
+      "product_url": "https://detail.tmall.com/item.htm?id=844107839572",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=844107839572&mi_id=0000-fRLTy4TDUOi6Ee1Nxe7pETOuTlxhfkmxMgbLO969sA&ns=1&skuId=5623653585962&xxc=taobaoSearch",
+      "sku": "60g / 【一抹冷白皮】流光瓷60g <免费试2片>\n店长主推",
+      "selected_sku_display_price": 36.1,
+      "price_label": "当前账号所选规格页面价；单品、两件组合海报价分开",
+      "gift_copy": "所选规格注明免费试2片；海报为60g×2组及素颜霜5g×2试用，组价39元与当前单支不同，不合并。",
+      "coupon_conditions": "含淘金币抵扣；除第4款外页面另含2元账号红包。20日满200减25为未来活动。未下单核验。",
+      "link_status": "active",
+      "evidence": [
+        "weilan-tmall-r3-dom.json",
+        "weilan-tmall-r3-selected.png",
+        "weilan-r3-poster-0.webp"
+      ],
+      "public_evidence": [
+        "weilan-r3-poster-0.webp"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "【秒杀】未兰身体磨砂膏海盐去角质果酸祛痘浴盐嫩肤保湿控油男女",
+      "product_id": "747315939874",
+      "product_url": "https://detail.tmall.com/item.htm?id=747315939874",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=747315939874&mi_id=00007i_eFBiZ7ftqEIx_iJtZt00uH6MgAjhtj8BjpiRk69k&ns=1&skuId=6302056775901&xxc=taobaoSearch",
+      "sku": "80g / 【去角质嫩肤】海盐款80g",
+      "selected_sku_display_price": 19,
+      "price_label": "当前账号所选规格页面价；单品、两件组合海报价分开",
+      "gift_copy": "海报新客入会礼磨砂膏10g×2，另写满138减10券（24h内）；图中券又为满79减5，存在文图差异，不作为确定优惠。",
+      "coupon_conditions": "含淘金币抵扣；除第4款外页面另含2元账号红包。20日满200减25为未来活动。未下单核验。",
+      "link_status": "active",
+      "evidence": [
+        "weilan-tmall-r4-dom.json",
+        "weilan-tmall-r4-selected.png",
+        "weilan-r4-poster-0.webp"
+      ],
+      "public_evidence": [
+        "weilan-r4-poster-0.webp"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "未兰洗面奶敏感肌泡沫洁面乳深层清洁温和控油保湿男女学生",
+      "product_id": "618769524568",
+      "product_url": "https://detail.tmall.com/item.htm?id=618769524568",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=618769524568&mi_id=0000wxOzPW2XuJQS1SmDUiWU2YXUWeScxoxkj2CrjIa45_g&ns=1&skuId=5946858872335&xxc=taobaoSearch",
+      "sku": "110g 【清香款】",
+      "selected_sku_display_price": 26.1,
+      "price_label": "当前账号所选规格页面价；单品、两件组合海报价分开",
+      "gift_copy": "海报200g×2版：满89赠卸妆油15ml，会员拍2送卸妆油3ml×4；当前110g，适用性未确认。",
+      "coupon_conditions": "含淘金币抵扣；除第4款外页面另含2元账号红包。20日满200减25为未来活动。未下单核验。",
+      "link_status": "active",
+      "evidence": [
+        "weilan-tmall-r5-dom.json",
+        "weilan-tmall-r5-selected.png",
+        "weilan-r5-poster-0.webp"
+      ],
+      "public_evidence": [
+        "weilan-r5-poster-0.webp"
+      ]
+    }
+  ],
+  "missing": [
+    "不同规格海报赠品适用性及会员资格待确认",
+    "第二个同SKU同优惠条件时点未采集，不计算变化"
+  ]
+}

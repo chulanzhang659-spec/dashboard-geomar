@@ -1,0 +1,119 @@
+{
+  "competitor_id": "sabon",
+  "platform": "天猫",
+  "shop_name": "Sabon海外旗舰店",
+  "captured_at": "2026-10-14T10:59:42.239Z",
+  "capture_status": "partial_capture",
+  "scope": "用户提供分类页已恢复访问；销量TOP5详情、所选规格价、赠品与预售海报已采集",
+  "products": [
+    {
+      "rank": 1,
+      "title": "【双11预售加购】SABON磨砂膏香氛身体精油去角质送礼明星同款",
+      "product_id": "629770253933",
+      "product_url": "https://detail.tmall.hk/hk/item.htm?id=629770253933",
+      "selected_sku_url": "https://detail.tmall.hk/hk/item.htm?abbucket=0&id=629770253933&mi_id=0000IXk6SHJ3qFuYK1AGUvcNQAVR2mgPeOoQzDsNA1ag4G8&ns=1&skuId=6274394042087&xxc=taobaoSearch",
+      "sku": "320g / 热销香型|白茶",
+      "selected_sku_display_price": 286.1,
+      "price_label": "当前账号含税展示价；预售权益和当前购买分开",
+      "gift_copy": "预售海报320g版买赠沐浴油100ml、身体乳5ml×2、木勺，香型随机；海报示翠绿玫瑰，当前白茶是否同享待确认。1元预定礼沐浴油5ml+身体乳5ml，限500份；预售期10/15 20:00至10/20 17:59:59，当前不视为已生效。",
+      "coupon_conditions": "除U先外含19元账号红包；1/2另含0.9元金币。云旗套组海报599与页面580差19元红包。未下单。",
+      "link_status": "active",
+      "evidence": [
+        "sabon-tmall-r1-dom.json",
+        "sabon-tmall-r1-selected.png",
+        "sabon-r1-poster-1.webp"
+      ],
+      "public_evidence": [
+        "sabon-r1-poster-1.webp"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "【双11预售加购】SABON沐浴油沐浴露送礼新升级清透香氛清洁萨邦",
+      "product_id": "630213476734",
+      "product_url": "https://detail.tmall.hk/hk/item.htm?id=630213476734",
+      "selected_sku_url": "https://detail.tmall.hk/hk/item.htm?abbucket=0&id=630213476734&mi_id=00005WWMuU4qvy_jJ-rlqES2TdQah9xsfkL8F6q4thcINv0&ns=1&skuId=6249166627971&xxc=taobaoSearch",
+      "sku": "300ml / 店长推荐|玫瑰花茶清透沐浴油",
+      "selected_sku_display_price": 196.1,
+      "price_label": "当前账号含税展示价；预售权益和当前购买分开",
+      "gift_copy": "300ml海报买赠身体乳5ml×4，香型随机；海报示白茶、当前玫瑰花茶，适用性待确认。1元预定礼沐浴油5ml+身体乳5ml限500份，预售日期同上，预售链接不参与全店满赠。",
+      "coupon_conditions": "除U先外含19元账号红包；1/2另含0.9元金币。云旗套组海报599与页面580差19元红包。未下单。",
+      "link_status": "active",
+      "evidence": [
+        "sabon-tmall-r2-dom.json",
+        "sabon-tmall-r2-selected.png",
+        "sabon-r2-poster-1.webp"
+      ],
+      "public_evidence": [
+        "sabon-r2-poster-1.webp"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "【云旗专属云间焕肤礼】SABON萨邦清透香氛沐浴油身体精油磨砂膏",
+      "product_id": "1068214268710",
+      "product_url": "https://detail.tmall.hk/hk/item.htm?id=1068214268710",
+      "selected_sku_url": "https://detail.tmall.hk/hk/item.htm?abbucket=0&id=1068214268710&mi_id=0000RZUl3gTv5ZdYI_zwvbT1lhSHFHp2wbIdld2nZQdkrhk&ns=1&skuId=6114841608059&xxc=taobaoSearch",
+      "sku": "(500ml 白茶清透沐浴油)*1+(300ml 翠绿玫瑰沐浴油)*1+(320g 舒悦橄榄磨砂膏)*1",
+      "selected_sku_display_price": 580,
+      "price_label": "当前账号含税展示价；预售权益和当前购买分开",
+      "gift_copy": "买赠润肤乳液5ml×2（香型随机）、木勺；另云间小卡4张、珍藏ID卡1、3D云朵眼罩1、云朵随香挂1（野蔷薇香）、礼盒包装及腰封各1。",
+      "coupon_conditions": "除U先外含19元账号红包；1/2另含0.9元金币。云旗套组海报599与页面580差19元红包。未下单。",
+      "link_status": "active",
+      "evidence": [
+        "sabon-tmall-r3-dom.json",
+        "sabon-tmall-r3-selected.png",
+        "sabon-r3-poster-0.webp"
+      ],
+      "public_evidence": [
+        "sabon-r3-poster-0.webp"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "【u先试用返券】SABON身体乳5ml*2爆款尝鲜旅行装护肤顺手买一件",
+      "product_id": "859580116806",
+      "product_url": "https://detail.tmall.hk/hk/item.htm?id=859580116806",
+      "selected_sku_url": "https://detail.tmall.hk/hk/item.htm?abbucket=0&id=859580116806&mi_id=0000bz2cSxR5IuBlVd4AE9gMCJqvU733tbzSc3RoYpjFLMI&ns=1&skuId=6302125451466&xxc=taobaoSearch",
+      "sku": "死海之境润肤乳霜5ml+清漾茉莉润肤乳液5ml",
+      "selected_sku_display_price": 19.9,
+      "price_label": "当前账号含税展示价；预售权益和当前购买分开",
+      "gift_copy": "确认收货返正装满250减40券；2026/9/20至11/14使用，百亿补贴、达人直播、秒杀部分链接不参加，以券可用商品为准。两袋5ml是商品内含。",
+      "coupon_conditions": "除U先外含19元账号红包；1/2另含0.9元金币。云旗套组海报599与页面580差19元红包。未下单。",
+      "link_status": "active",
+      "evidence": [
+        "sabon-tmall-r4-dom.json",
+        "sabon-tmall-r4-selected.png",
+        "sabon-r4-poster-0.webp"
+      ],
+      "public_evidence": [
+        "sabon-r4-poster-0.webp"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "【云旗专属云间润肤礼】SABON萨邦清透香氛沐浴油丝滑身体乳",
+      "product_id": "1068219988352",
+      "product_url": "https://detail.tmall.hk/hk/item.htm?id=1068219988352",
+      "selected_sku_url": "https://detail.tmall.hk/hk/item.htm?abbucket=0&id=1068219988352&mi_id=0000ilp2STUsF9Pq38AtKdMtAxt9eYCRQGd_1JX5hwAvY08&ns=1&skuId=6279959207932&xxc=taobaoSearch",
+      "sku": "(500ml 白茶清透沐浴油)*1+(300ml 翠绿玫瑰沐浴油)*1+(200ml 白茶身体乳)*1",
+      "selected_sku_display_price": 580,
+      "price_label": "当前账号含税展示价；预售权益和当前购买分开",
+      "gift_copy": "买赠润肤乳液5ml×2（香型随机）；另云间小卡4张、珍藏ID卡1、3D云朵眼罩1、云朵随香挂1（野蔷薇香）、礼盒包装及腰封各1。",
+      "coupon_conditions": "除U先外含19元账号红包；1/2另含0.9元金币。云旗套组海报599与页面580差19元红包。未下单。",
+      "link_status": "active",
+      "evidence": [
+        "sabon-tmall-r5-dom.json",
+        "sabon-tmall-r5-selected.png",
+        "sabon-r5-poster-0.webp"
+      ],
+      "public_evidence": [
+        "sabon-r5-poster-0.webp"
+      ]
+    }
+  ],
+  "missing": [
+    "部分香型对应赠品与预售适用条件待确认",
+    "第二个同SKU同优惠条件时点未采集，不计算变化"
+  ]
+}

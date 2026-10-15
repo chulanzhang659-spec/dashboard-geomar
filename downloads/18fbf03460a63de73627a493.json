@@ -1,0 +1,187 @@
+{
+  "competitor_id": "sabon",
+  "platform": "抖音",
+  "shop_name": "SABON海外旗舰店",
+  "shop_url": "https://www.douyin.com/user/MS4wLjABAAAARHk8MWkr7K03IELysFMqH9l3Pia83Jyw3swqHcP5U4Z4YXgrI26Qayy5TPhd2hQq",
+  "live_url": "https://live.douyin.com/651906849319",
+  "captured_at": "2026-10-15T12:27:48+08:00",
+  "capture_status": "partial_capture",
+  "scope": "实名认证后Chrome正常读取直播列表8款价格与活动文案；列表展示顺序非销量TOP5；商品SKU和赠品条件未齐",
+  "extraction_method": "Browser Act读取当前页面可见商品卡DOM，无隐藏接口请求",
+  "products": [
+    {
+      "rank": 1,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "<云旗专属云间润养礼>SABON橘林雪松磨砂膏600g+菁萃精华油100ml",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 599.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "橘林雪松优雅魅力香",
+      "raw_product_card": "2\n讲解中\n<云旗专属云间润养礼>SABON橘林雪松磨砂膏600g+菁萃精华油100ml\n橘林雪松优雅魅力香\n大促价\n¥599\n¥940\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:27:48+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/sabon-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 2,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "<云旗专属云间手护礼>SABON黄油护手霜75ml+30ml+盈润护手霜30ml",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 399.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "推荐翠绿玫瑰/白茶香型",
+      "raw_product_card": "1\n<云旗专属云间手护礼>SABON黄油护手霜75ml+30ml+盈润护手霜30ml\n推荐翠绿玫瑰/白茶香型\n大促价\n¥399\n¥645\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:27:48+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/sabon-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 3,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "<云旗专属云间净肤礼>SABON沐浴油300ml+磨砂膏320g+身体乳200ml",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 599.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "茉莉白月光，舒悦橄榄惬意温柔香",
+      "raw_product_card": "3\n<云旗专属云间净肤礼>SABON沐浴油300ml+磨砂膏320g+身体乳200ml\n茉莉白月光，舒悦橄榄惬意温柔香\n大促价\n¥599\n¥960\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:27:48+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/sabon-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 4,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【云旗同款】SABON身体清透香氛沐浴油300ml/500ml-ZB",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 204.0,
+      "price_label": "直播列表展示起售价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "",
+      "raw_product_card": "4\n【云旗同款】SABON身体清透香氛沐浴油300ml/500ml-ZB\n大促价\n¥204\n起\n¥240\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:27:48+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/sabon-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 5,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【云旗同款】SABON身体精油磨砂膏320g/600g-ZB",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 289.0,
+      "price_label": "直播列表展示起售价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "磨砂膏",
+      "raw_product_card": "5\n【云旗同款】SABON身体精油磨砂膏320g/600g-ZB\n磨砂膏\n大促价\n¥289\n起\n¥340\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:27:48+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/sabon-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 6,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【云旗同款】SABON丝滑身体乳200ml-ZB",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 323.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "",
+      "raw_product_card": "6\n【云旗同款】SABON丝滑身体乳200ml-ZB\n大促价\n¥323\n¥380\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:27:48+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/sabon-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 7,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【云旗同款】SABON菁萃香氛精华油100ml-ZB",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 408.0,
+      "price_label": "直播列表展示价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "",
+      "raw_product_card": "7\n【云旗同款】SABON菁萃香氛精华油100ml-ZB\n大促价\n¥408\n¥480\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:27:48+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/sabon-products-dom.txt"
+      ]
+    },
+    {
+      "rank": 8,
+      "rank_basis": "直播商品列表展示顺序，非销量排名",
+      "title": "【云旗同款-全香型】SABON黄油护手霜75ml-SC",
+      "product_id": null,
+      "product_url": null,
+      "sku": null,
+      "selected_sku_display_price": null,
+      "list_display_price": 119.0,
+      "price_label": "直播列表展示起售价；未核验选中SKU及结算条件",
+      "gift_copy": null,
+      "gift_status": "未见明确赠品信息，保留未知",
+      "coupon_conditions": "未核实",
+      "promotion_copy": "",
+      "raw_product_card": "8\n【云旗同款-全香型】SABON黄油护手霜75ml-SC\n大促价\n¥119\n起\n¥140\n去抢购",
+      "link_status": "直播商品卡已读取，稳定商品链接待补",
+      "captured_at": "2026-10-15T12:27:48+08:00",
+      "evidence": [
+        "../patrol-chrome-20261015/sabon-products-dom.txt"
+      ]
+    }
+  ],
+  "missing": [
+    "选中SKU及对应价格",
+    "稳定商品ID与商品链接",
+    "赠品适用规格、数量及活动限制",
+    "第二个同规格同条件快照"
+  ]
+}

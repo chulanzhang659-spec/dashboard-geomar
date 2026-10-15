@@ -1,0 +1,121 @@
+{
+  "competitor_id": "anns-rosary",
+  "platform": "天猫",
+  "shop_name": "ANNS ROSARY旗舰店",
+  "captured_at": "2026-10-14T10:28:18.178Z",
+  "capture_status": "partial_capture",
+  "scope": "销量TOP5详情、容量及香型规格价、赠品与回购券海报已采集",
+  "products": [
+    {
+      "rank": 1,
+      "title": "【回购券双11可用】安的玫瑰庄园磨砂膏身体乳旅行装套组清洁保湿",
+      "product_id": "975186358712",
+      "product_url": "https://detail.tmall.com/item.htm?id=975186358712",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=975186358712&mi_id=0000wCd-8JXspP3I4_iRYVzVpgDLRUMTZda7zprGoE6BGFA&ns=1&skuId=6118158869912&xxc=taobaoSearch",
+      "sku": "乌木磨砂膏100g+乌木身体霜50g\n推荐",
+      "selected_sku_display_price": 39.9,
+      "price_label": "当前账号所选规格页面价；U先、正装和礼盒分别记录",
+      "gift_copy": "50元回购券仅限玫瑰回响礼盒；店铺会员限购1份、不叠其他活动；确认收货后查领，30天有效。套组身体霜50g+磨砂膏100g是商品内含。",
+      "coupon_conditions": "U先仅会员、每ID限1；回购券为后续订单权益，不抵本次价格。",
+      "link_status": "active",
+      "evidence": [
+        "anns-rosary-tmall-r1-dom.json",
+        "anns-rosary-tmall-r1-selected.png",
+        "anns-rosary-r1-poster-0.webp"
+      ],
+      "public_evidence": [
+        "anns-rosary-r1-poster-0.webp"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "【全新升级】安的玫瑰庄园乌木玫瑰沐浴油240ml清洁保湿以油净肤",
+      "product_id": "950368769271",
+      "product_url": "https://detail.tmall.com/item.htm?id=950368769271",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=950368769271&mi_id=0000OANPjhZkfjW3atyZ610iFdhtc7RRVbrxpXKERQ-DLgo&ns=1&skuId=6240403475646&xxc=taobaoSearch",
+      "sku": "240ml / 乌木玫瑰香",
+      "selected_sku_display_price": 195,
+      "price_label": "当前账号所选规格页面价；U先、正装和礼盒分别记录",
+      "gift_copy": "买即赠乌木身体霜50g、乌木磨砂膏20g、乌木身体霜5g；全店正装单笔满两件加赠洗漱包1，每ID限1份，U先/会员礼/达播链接等不参加。",
+      "coupon_conditions": "页面含5元账号红包及超级立减；未验证最终结算和活动叠加资格。",
+      "link_status": "active",
+      "evidence": [
+        "anns-rosary-tmall-r2-dom.json",
+        "anns-rosary-tmall-r2-selected.png",
+        "anns-rosary-r2-poster-0.webp"
+      ],
+      "public_evidence": [
+        "anns-rosary-r2-poster-0.webp"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "ANNS ROSARY/安的玫瑰庄园四方寻香「玫瑰藏宝盒」磨砂膏限定礼盒",
+      "product_id": "762088953234",
+      "product_url": "https://detail.tmall.com/item.htm?id=762088953234",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=762088953234&mi_id=0000NOdc33_xoNaw057sGl9FNosI-fLZT7eRx7EARX_yRmQ&ns=1&skuId=5249629396305&xxc=taobaoSearch",
+      "sku": "400g / 玫瑰香",
+      "selected_sku_display_price": 145,
+      "price_label": "当前账号所选规格页面价；U先、正装和礼盒分别记录",
+      "gift_copy": "礼盒内含4种磨砂膏各100g（非赠品）；全店正装单笔满两件加赠洗漱包1，每ID限1份，U先/会员礼/达播链接等不参加。",
+      "coupon_conditions": "页面含5元账号红包及超级立减；未验证最终结算和活动叠加资格。",
+      "link_status": "active",
+      "evidence": [
+        "anns-rosary-tmall-r3-dom.json",
+        "anns-rosary-tmall-r3-selected.png",
+        "anns-rosary-r3-poster-0.webp",
+        "anns-rosary-r3-poster-1.webp"
+      ],
+      "public_evidence": [
+        "anns-rosary-r3-poster-0.webp",
+        "anns-rosary-r3-poster-1.webp"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "ANNS ROSARY/安的玫瑰庄园乌木玫瑰香型海盐身体磨砂膏400g去角质",
+      "product_id": "736479106360",
+      "product_url": "https://detail.tmall.com/item.htm?id=736479106360",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=736479106360&mi_id=00000-pmBofo3lrteBdSW0OZu1jl4DTOu-7K2n52oHWJKFM&ns=1&skuId=5085310268715&xxc=taobaoSearch",
+      "sku": "400g / 乌木玫瑰香型正装",
+      "selected_sku_display_price": 185,
+      "price_label": "当前账号所选规格页面价；U先、正装和礼盒分别记录",
+      "gift_copy": "买即赠乌木磨砂膏100g、乌木磨砂膏20g、乌木身体霜5g；正装满两件洗漱包1，限制同上。",
+      "coupon_conditions": "页面含5元账号红包及超级立减；未验证最终结算和活动叠加资格。",
+      "link_status": "active",
+      "evidence": [
+        "anns-rosary-tmall-r4-dom.json",
+        "anns-rosary-tmall-r4-selected.png",
+        "anns-rosary-r4-poster-0.webp"
+      ],
+      "public_evidence": [
+        "anns-rosary-r4-poster-0.webp"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "【回购券双11可用】安的玫瑰庄园入夜玫瑰沐浴露100ml旅行装",
+      "product_id": "668971882702",
+      "product_url": "https://detail.tmall.com/item.htm?id=668971882702",
+      "selected_sku_url": "https://detail.tmall.com/item.htm?abbucket=0&id=668971882702&mi_id=000023w-7MQmvpY5L8Pa8K6fe2lMRRZakvhkDkTXXmsZXUs&ns=1&skuId=4934878024452&xxc=taobaoSearch",
+      "sku": "100ml / 入夜玫瑰沐浴露",
+      "selected_sku_display_price": 19.9,
+      "price_label": "当前账号所选规格页面价；U先、正装和礼盒分别记录",
+      "gift_copy": "20元回购券仅限沐浴露正装；店铺会员限购1份，不叠其他活动；确认收货后查领，30天有效。",
+      "coupon_conditions": "U先仅会员、每ID限1；回购券为后续订单权益，不抵本次价格。",
+      "link_status": "active",
+      "evidence": [
+        "anns-rosary-tmall-r5-dom.json",
+        "anns-rosary-tmall-r5-selected.png",
+        "anns-rosary-r5-poster-0.webp"
+      ],
+      "public_evidence": [
+        "anns-rosary-r5-poster-0.webp"
+      ]
+    }
+  ],
+  "missing": [
+    "账号会员资格及赠品余量未核验",
+    "第二个同SKU同优惠条件时间点未采集，不计算变化"
+  ]
+}
